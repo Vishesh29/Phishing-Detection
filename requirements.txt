@@ -1,0 +1,14 @@
+python-dotenv
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+pymongo
+pymongo[srv]==3.12
+certifi
+pyaml
+mlflow
+dagshub
+
+##-e .
